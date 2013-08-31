@@ -13,6 +13,10 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\fnt_Countdown</font>
+    <font>fonts\fnt_Default</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_Ball</object>
     <object>objects\obj_Paddle</object>
