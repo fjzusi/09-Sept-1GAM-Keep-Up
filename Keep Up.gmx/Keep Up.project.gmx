@@ -8,7 +8,8 @@
   <sprites name="sprites">
     <sprite>sprites\spr_Ball</sprite>
     <sprite>sprites\spr_Paddle</sprite>
-    <sprite>sprites\spr_Holder</sprite>
+    <sprite>sprites\spr_Wall</sprite>
+    <sprite>sprites\spr_Ender</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
